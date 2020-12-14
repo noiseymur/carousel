@@ -16,6 +16,7 @@
   display: flex;
   scroll-snap-type: x mandatory;
   cursor: grab;
+  touch-action: none;
 }
 
 .element {

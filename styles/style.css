@@ -21,6 +21,8 @@
       scroll-snap-type: x mandatory;
   cursor: -webkit-grab;
   cursor: grab;
+  -ms-touch-action: none;
+      touch-action: none;
 }
 
 .element {
